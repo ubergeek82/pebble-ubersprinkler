@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "brian.ikei@gmail.com",
-    "longName": "Pebble Particle Control",
+    "longName": "Ubersprinkler",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -32,7 +32,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "Pebble Particle Control",
+    "shortName": "Ubersprinkler",
     "targetPlatforms": [
         "aplite",
         "basalt"
